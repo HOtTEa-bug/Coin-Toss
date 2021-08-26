@@ -1,6 +1,6 @@
 # Coin-Toss
 Heads or Tails
-Instructions
+Instructions: 
 A virtual coin toss program. It will randomly tell the user "Heads" or "Tails".
 
 Important, the first letter is capitalised and spelt exactly like in the example e.g. Heads, not heads.
